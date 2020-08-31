@@ -1,1 +1,1 @@
-# LogisticRegression
+# Supervised Learning
